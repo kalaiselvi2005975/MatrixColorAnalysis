@@ -31,6 +31,6 @@ Each cube face is represented as a 7×7 matrix where **Orange = 1** and **Blue =
 
 🛠️ Run the Project
 
-```bash
 javac CubePatternApp.java
 java CubePatternApp
+
